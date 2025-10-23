@@ -53,6 +53,5 @@ Fique à vontade para me enviar uma mensagem! Estou sempre aberto para discutir 
 
 <div align="center">
   
-![Snake animation](https://github.com/IvanildoMendes/IvanildoMendes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
