@@ -8,7 +8,7 @@
 
 Sou um entusiasta da tecnologia com foco em **Sistemas Operacionais**, **Redes de Computadores** e **Inteligência Artificial**. Atualmente, estou mergulhando no mundo da programação em **Rust** 🦀, uma linguagem que me impressiona com seu foco em desempenho e segurança.
 
-- 🔭 **Aprendendo:** Rust, aprofundando conhecimentos em IA e estruturas de redes complexas.
+- 🔭 **Aprendendo:** Rust e Cobol, aprofundando conhecimentos em IA e estruturas de redes complexas.
 - 🤝 **Procurando colaborar em:** Projetos Open Source, especialmente nas áreas de sistemas, ferramentas de linha de comando em Rust ou bibliotecas relacionadas à IA.
 - 🎯 **Objetivo:** Contribuir para a comunidade de código aberto, aprender com outros desenvolvedores e construir soluções robustas e eficientes.
 - 💡 **Curiosidade:** Sou fascinado por como os sistemas operacionais gerenciam recursos e como as redes formam a espinha dorsal do mundo moderno.
