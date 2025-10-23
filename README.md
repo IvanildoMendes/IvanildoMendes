@@ -27,7 +27,7 @@ Sou um entusiasta da tecnologia com foco em **Sistemas Operacionais**, **Redes d
 
 **Ferramentas que Uso:**
 
-`Git & GitHub` `Docker` `VSCode` `Linux (Distribuições baseadas em Debian/Arch)`
+`Git & GitHub` `Linux (Distribuições baseadas em Debian)` `Windows` `Ngnix` 
 
 ---
 
