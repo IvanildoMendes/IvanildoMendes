@@ -19,7 +19,7 @@ Sou um entusiasta da tecnologia com foco em **Sistemas Operacionais**, **Redes d
 
 **Linguagens & Tecnologias:**
 
-`Rust` `Python` `C` `Linux` `Bash/Shell` `Git`
+`Pascal` `BAT Script` `AutoIt 3` `Rust` `Python` `C\C++` `Bash/Shell` `Git` `Linux` `Windows` `HTML` `CSS` `JS` `PHP`
 
 **Áreas de Interesse:**
 
